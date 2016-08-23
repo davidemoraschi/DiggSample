@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DiggSample">
+</Property><Property Name="Solution File" Value="C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\DiggSample.sln">
+</Property><Property Name="User Options File" Value="C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\DiggSample.suo">
+</Property><Property Name="Date" Value="viernes, 02 de octubre de 2009">
+</Property><Property Name="Time" Value="8:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DiggSample.sln" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DiggSample.suo" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample.suo">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\DiggSample.csproj" Description="Project file successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\DiggSample.csproj">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\DiggSample.csproj.user" Description="Project user file successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\DiggSample.csproj.user">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\App.xaml.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\DiggStory.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\DiggStory.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\Page.xaml.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\Page.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\Properties\AppManifest.xml" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\Properties\AppManifest.xml">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\App.xaml" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\App.xaml">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\Page.xaml" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample\Page.xaml">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\DiggSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DiggSample" Source="DiggSample\DiggSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\DiggSample_WebServer.csproj" Description="Project file successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\DiggSample_WebServer.csproj">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\DiggSample_WebServer.csproj.user" Description="Project user file successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\DiggSample_WebServer.csproj.user">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\Default.aspx.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\Default.aspx.designer.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\ClientBin\DiggSample.xap" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\ClientBin\DiggSample.xap">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\Default.aspx" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\Default.aspx">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\DiggSampleTestPage.aspx" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\DiggSampleTestPage.aspx">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\DiggSampleTestPage.html" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\DiggSampleTestPage.html">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\Silverlight.js" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\Silverlight.js">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\Web.config" Description="File successfully backed up as C:\My Dropbox\Visual Studio 2008\Projects\DiggSample\Backup\DiggSample_WebServer\Web.config">
+</Event><Event ErrorLevel="0" Project="DiggSample_WebServer" Source="DiggSample_WebServer\DiggSample_WebServer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DiggSample_WebServer" Source="DiggSample_WebServer\DiggSample_WebServer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="DiggSample.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="DiggSample.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DiggSample" Source="DiggSample\DiggSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
